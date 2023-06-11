@@ -46,6 +46,10 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Home"
       url = "#"
+    
+    [[params.navigation.links]]
+      name = "About Me"
+      url = "aboutme"
 
     [[params.navigation.links]]
       name = "Blogs"
@@ -67,14 +71,14 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
+    #[[params.navigation.button1]]
+     # name = "Get Started"
+      #url = "blogs"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+   # [[params.navigation.button2]]
+     # name = "Log In"
+      #url = "#"
 
 
   # Banner section

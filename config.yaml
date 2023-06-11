@@ -59,15 +59,17 @@ params:
   image: ''
   name: Karen Badanyan
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+    #button1:
+      #- name: Get Started
+        #url: blogs
+    #button2:
+      #- name: Log In
+        #url: '#'
     links:
       - name: Home
         url: '#'
+      - name: About Me
+        url: aboutme/page
       - name: Blogs
         url: blogs
     #  - name: Generic Blog
@@ -80,6 +82,10 @@ params:
   tiles:
     enable: yes
     showcase:
+      - image: lbs.jpg
+        subtitle: CV
+        title: About Me
+        url: aboutme/page
       - image: lbs.jpg
         subtitle: DJIA stocks
         title: Risk - Return
