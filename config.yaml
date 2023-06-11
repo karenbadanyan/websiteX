@@ -83,7 +83,7 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: CV
+        #subtitle: 
         title: About Me
         url: aboutme/page
       - image: lbs.jpg
