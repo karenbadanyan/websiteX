@@ -9,7 +9,6 @@ params:
     buttonText: Get Started
     subtitle: |-
       London Business School MiF23 Candidate/ FP&A/ Corporate Finance
-      
     title: Hi, my name is Karen Badanyan
   blog: {}
   contact:
@@ -38,9 +37,9 @@ params:
     copyright: #Company Name
     enable: yes
     quicklinks:
-      - alt: #HTML5 UP
-        text: #'Design: '
-        url: https://www.html5up.net
+      #- alt: HTML5 UP
+      #  text: 'Design: '
+      #  url: https://www.html5up.net
     social:
       #- icon: fa-twitter
       #  label: Twitter
@@ -58,7 +57,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/karen-badanyan/
   image: ''
-  name: Your name
+  name: Karen Badanyan
   navigation:
     button1:
       - name: Get Started
@@ -71,50 +70,45 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - #name: Generic Blog
-        url: blogs/ipsum
-      - #name: Elements
-        url: elements.html
+    #  - name: Generic Blog
+    #    url: blogs/ipsum
+    #  - #name: Elements
+    #    url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: MiF Candidate
-        title: About Me
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      - image: lbs.jpg
+        subtitle: DJIA stocks
+        title: Risk - Return
+        url: blogs/risk_return
+      - image: ml1.jpg
+        subtitle: Women depicted in Hollywood movies
+        title: Hollywood Movies ML Model
+        url: blogs/hollywood_women_model
+      - image: ml2.jpeg
+        subtitle: Credit Card Fraud Loss Comparison for Naive Model and ML Model
+        title: Credit Card Fraud ML Model
+        url: blogs/ccf_model
+      - image: data_visualisation.jpeg
+        subtitle: Mass shootings in the US
+        title: Data Visualisation - Exploration
+        url: blogs/mass_shootings
+      - image: data_visualisation2.jpeg
+        subtitle: Credit Card Fraud
+        title: Data Visualisation - Exploration
+        url: blogs/cc_fraud
+      - image: data_visualisation3.jpeg
+        subtitle: CO2 Emissions
+        title: Data Visualisation - Exploration
+        url: blogs/co2_emissions
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: In a data-driven world, the desire to explore data analysis and machine learning is driven by the curiosity to uncover hidden patterns and make informed predictions.The allure lies in the potential to create positive impact, empower businesses with accurate insights, and revolutionize industries. The intellectual challenge of mastering complex algorithms and techniques further fuels the fascination. As individuals embark on their journey, they embrace the boundless possibilities, honing their skills to reshape industries and unlock the immense power of data-driven innovation.
+    title: Data Science
     url: blogs
 
 markup: 
