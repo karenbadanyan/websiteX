@@ -1,6 +1,6 @@
 baseURL: https://karenbadanyan-portfolio.netlify.app/
 languageCode: en-us
-title: Portfolio website for Kostis Christodoulou
+title: Portfolio website for Karen Badanyan
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -42,9 +42,9 @@ params:
         text: #'Design: '
         url: https://www.html5up.net
     social:
-      - #icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+      #- icon: fa-twitter
+      #  label: Twitter
+      #  url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com/badanyan.karen
@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: MiF Candidate
+        title: About Me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
