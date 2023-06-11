@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://karenbadanyan-portfolio.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Kostis Christodoulou
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,24 +8,24 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      London Business School MiF23 Candidate/ FP&A/ Corporate Finance
+      
+    title: Hi, my name is Karen Badanyan
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, NW2 2PL
+        country: UK
+        street: Flat 42, Moreland Court, Finchley
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: badanyan.karen@gmail.com
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (44) 7709-276439
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,28 +35,28 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: #Company Name
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
+      - alt: #HTML5 UP
+        text: #'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
+      - #icon: fa-twitter
         label: Twitter
         url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/badanyan.karen
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/k.badanyan/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/karenbadanyan
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/karen-badanyan/
   image: ''
   name: Your name
   navigation:
@@ -71,9 +71,9 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
+      - #name: Generic Blog
         url: blogs/ipsum
-      - name: Elements
+      - #name: Elements
         url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
@@ -116,3 +116,8 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+
+markup: 
+  goldmark: 
+    renderer: 
+      unsafe: true
