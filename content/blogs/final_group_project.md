@@ -10,25 +10,7 @@ image: cc1.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpe
 keywords: ""
 slug: ccf_model # slug is the shorthand URL address... no spaces plz
 title: ML Model for Credit Card Frauds
-
 ---
-<! --title: "Final Group project"
-author: "Ignacio Landerreche Velasco, Mike Dizon, Karen Badanyan"
-date: "2023-06-10"
-output:
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    number_sections: yes
-    toc: yes
-    toc_float: yes
-    code_folding: show
-  pdf_document:
-    toc: yes--> 
----
-
-
-
 
 # The problem: predicting credit card fraud
 
