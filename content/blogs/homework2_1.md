@@ -5,7 +5,7 @@ categories:
 date: "2023-06-10"
 description: Mass shootings in the US # the title that will show up once someone gets to this page
 draft: false
-image: shootings.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: mass_shootings.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: mass_shootings # slug is the shorthand URL address... no spaces plz
