@@ -86,27 +86,27 @@ params:
         #subtitle: 
         title: About Me
         url: aboutme/page
-      - image: lbs.jpg
+      - image: risk_return1.jpg
         subtitle: DJIA stocks
         title: Risk - Return
         url: blogs/risk_return
-      - image: ml1.jpg
+      - image: machine_learning1.jpg
         subtitle: Women depicted in Hollywood movies
         title: Hollywood Movies ML Model
         url: blogs/hollywood_women_model
-      - image: ml2.jpeg
+      - image: machine_learning1.jpg
         subtitle: Credit Card Fraud Loss Comparison for Naive Model and ML Model
         title: Credit Card Fraud ML Model
         url: blogs/ccf_model
-      - image: data_visualisation.jpeg
+      - image: vis1.jpg
         subtitle: Mass shootings in the US
         title: Data Visualisation - Exploration
         url: blogs/mass_shootings
-      - image: data_visualisation2.jpeg
+      - image: vis2.jpg
         subtitle: Credit Card Fraud
         title: Data Visualisation - Exploration
         url: blogs/cc_fraud
-      - image: data_visualisation3.jpeg
+      - image: vis3.jpg
         subtitle: CO2 Emissions
         title: Data Visualisation - Exploration
         url: blogs/co2_emissions
