@@ -12,7 +12,7 @@ slug: ccf_model # slug is the shorthand URL address... no spaces plz
 title: ML Model for Credit Card Frauds
 
 ---
-title: "Final Group project"\
+<! --title: "Final Group project"
 author: "Ignacio Landerreche Velasco, Mike Dizon, Karen Badanyan"
 date: "2023-06-10"
 output:
@@ -24,7 +24,7 @@ output:
     toc_float: yes
     code_folding: show
   pdf_document:
-    toc: yes
+    toc: yes--> 
 ---
 
 
