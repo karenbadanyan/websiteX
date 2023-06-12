@@ -94,7 +94,7 @@ params:
         subtitle: Women depicted in Hollywood movies
         title: Hollywood Movies ML Model
         url: blogs/hollywood_women_model
-      - image: machine_learning1.jpg
+      - image: machine_learning2.jpg
         subtitle: Credit Card Fraud Loss Comparison for Naive Model and ML Model
         title: Credit Card Fraud ML Model
         url: blogs/ccf_model
