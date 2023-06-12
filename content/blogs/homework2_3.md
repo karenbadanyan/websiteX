@@ -5,7 +5,7 @@ categories:
 date: "2023-06-10"
 description: CO2 Emissions # the title that will show up once someone gets to this page
 draft: false
-image: co2.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: co2emissions.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: co2_emissions # slug is the shorthand URL address... no spaces plz

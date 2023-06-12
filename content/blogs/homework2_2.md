@@ -5,7 +5,7 @@ categories:
 date: "2023-06-10"
 description: Credit Card Fraud # the title that will show up once someone gets to this page
 draft: false
-image: cc.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: cc2.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: cc_fraud # slug is the shorthand URL address... no spaces plz

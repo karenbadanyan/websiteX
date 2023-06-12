@@ -5,7 +5,7 @@ categories:
 date: "2023-06-10"
 description: ML Model for Women depicted in Hollywood movies # the title that will show up once someone gets to this page
 draft: false
-image: hollywood.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: hollywood.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: hollywood_women_model # slug is the shorthand URL address... no spaces plz

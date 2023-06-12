@@ -12,9 +12,9 @@ slug: ccf_model # slug is the shorthand URL address... no spaces plz
 title: ML Model for Credit Card Frauds
 
 ---
-authors: "Ignacio Landerreche Velasco, Mike Dizon, Karen Badanyan"\
-date: "`r Sys.Date()`"\
-output:\
+authors: "Ignacio Landerreche Velasco, Mike Dizon, Karen Badanyan"
+date: "`r Sys.Date()`"
+output:
   html_document:
     theme: flatly
     highlight: zenburn

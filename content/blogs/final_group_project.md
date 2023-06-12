@@ -5,14 +5,14 @@ categories:
 date: "2023-06-10"
 description: ML Model for Credit Card Frauds # the title that will show up once someone gets to this page
 draft: false
-image: cc.jpeg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: cc1.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: ccf_model # slug is the shorthand URL address... no spaces plz
 title: ML Model for Credit Card Frauds
 
 ---
-title: "Final Group project"
+title: "Final Group project"\
 author: "Ignacio Landerreche Velasco, Mike Dizon, Karen Badanyan"
 date: "2023-06-10"
 output:
