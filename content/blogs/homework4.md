@@ -12,25 +12,6 @@ slug: hollywood_women_model # slug is the shorthand URL address... no spaces plz
 title: ML Model for Women depicted in Hollywood movies
 
 ---
-title: 'Machine Learning'
-author: "Karen Badanyan"
-date: "2023-06-10"
-output:
-  word_document:
-    toc: yes
-  pdf_document:
-    toc: yes
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    number_sections: yes
-    toc: yes
-    toc_float: yes
-    code_folding: show
----
-
-
-
 
 # The Bechdel Test
 

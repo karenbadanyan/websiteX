@@ -12,31 +12,6 @@ slug: cc_fraud # slug is the shorthand URL address... no spaces plz
 title: Data Visualisation - Exploration
 
 ---
-title: "Homework 2"
-author: "Karen Badanyan"
-date: "2023-06-10"
-output:
-  word_document:
-    toc: yes
-  pdf_document:
-    toc: yes
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    number_sections: yes
-    toc: yes
-    toc_float: yes
-    code_folding: show
----
----
-
-
-
-
-
-
-
-
 
 ```r
 library (GGally)

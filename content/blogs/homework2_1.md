@@ -12,29 +12,6 @@ slug: mass_shootings # slug is the shorthand URL address... no spaces plz
 title: Data Visualisation - Exploration
 
 ---
-title: "Homework 2"
-author: "Karen Badanyan"
-date: "2023-06-10"
-output:
-  word_document:
-    toc: yes
-  pdf_document:
-    toc: yes
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    number_sections: yes
-    toc: yes
-    toc_float: yes
-    code_folding: show
----
----
-
-
-
-# Data Visualisation - Exploration
-
-Now that you've demonstrated your software is setup, and you have the basics of data manipulation, the goal of this assignment is to practice transforming, visualising, and exploring data.
 
 # Mass shootings in the US
 
